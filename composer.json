@@ -1,0 +1,17 @@
+{
+    "name": "admin/number-format",
+    "description": "测试composer包开发",
+    "authors": [
+        {
+            "name": "pengbin",
+            "email": "pengbin_2012@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "numberFormat\\": "src/"
+        }
+    },
+    "license": ["MIT"]
+}
